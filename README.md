@@ -9,4 +9,4 @@ of the entity.
 The raspi folder contains the python file associated to the SPI number 0 of the Raspberry Pi, which is using the CS n.0. The requirement 
 file is useful for install the required libraries.
 
-see the blog debiandado.com for the related article: http://debiandado.com/#bigpost?pk=11
+see the blog debiandado.com for the related article: http://debiandado.com/001_fpga_spi_slave_with_raspberrypi.html
